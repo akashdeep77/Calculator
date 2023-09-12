@@ -13,15 +13,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    background: linear-gradient(45deg, #2682ec, #f12495);
 }
 
 .calculator{
-    border: 1px solid #717377;
+    border: 1px solid #03fd39;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
-    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+    box-shadow: 0px 3px 15px rgba(119, 113, 114, 0.5);
 
 }
 
@@ -56,9 +56,9 @@ button{
 }
 
 .equalBtn{
-    background-color: #fb7c14;
+    background-color: #14fb27;
 }
 
 .operator{
-    color: #6dee0a;
+    color: #eeff03;
 }
